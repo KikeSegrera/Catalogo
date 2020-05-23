@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalog</string>
+    <string name="price">Price: $%1$s</string>
+    <string name="provider">Provider: %1$s</string>
+    <string name="delivery">Delivery: %1$s</string>
+    <string name="url_listado">https://www.serverbpw.com/cm/2020-2/products.php</string>
+    <string name="url_desc">https://www.serverbpw.com/cm/2020-2/product_detail.php?id=</string>
+</resources>

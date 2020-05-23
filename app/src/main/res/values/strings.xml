@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catalogo</string>
+    <string name="price">Precio: $%1$s</string>
+    <string name="provider">Proveedor: %1$s</string>
+    <string name="delivery">Envío: %1$s</string>
+    <string name="url_listado">https://www.serverbpw.com/cm/2020-2/products.php</string>
+    <string name="url_desc">https://www.serverbpw.com/cm/2020-2/product_detail.php?id=</string>
+</resources>
